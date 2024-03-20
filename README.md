@@ -1,5 +1,5 @@
 ### Hi there 👋
-#I'm learning python right now
+I'm learning python right now
 
 <!--
 **Chuckl3z/Chuckl3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
